@@ -1,4 +1,4 @@
-# 🧪 QA Manual Testing Projects
+# QA Manual Testing Projects
 
 This repository contains my practice projects related to manual testing.
 
@@ -6,7 +6,7 @@ I focused on testing simple applications like e-commerce and banking systems to 
 
 ---
 
-## 🔍 What I tested
+## What I tested
 
 - login functionality  
 - shopping cart  
@@ -15,7 +15,7 @@ I focused on testing simple applications like e-commerce and banking systems to 
 
 ---
 
-## 🧠 What I practiced
+## What I practiced
 
 - writing test cases and test scenarios  
 - checking different situations (valid and invalid data)  
@@ -24,7 +24,7 @@ I focused on testing simple applications like e-commerce and banking systems to 
 
 ---
 
-## 🐞 Bug reports
+## Bug reports
 
 You can find examples of bugs such as:
 - missing validation  
@@ -33,6 +33,6 @@ You can find examples of bugs such as:
 
 ---
 
-## 🎯 Goal
+## Goal
 
 My goal was to learn how to think like a tester and get some hands-on experience before my first job in QA.
